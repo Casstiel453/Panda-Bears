@@ -39,5 +39,5 @@ the other one's score, the button Leaderboard finds usage. Selecting it gives ac
 all results of previous games sorted from the best to the worst score.</br></br>
 ![image](https://user-images.githubusercontent.com/56159258/157223631-ad9f8682-4aa9-4237-b537-8a2565a08901.png)
 
-all the graphics used in the project were prepared by me.
+All the graphics used in the project were prepared by me.
 
