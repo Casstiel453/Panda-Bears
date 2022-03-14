@@ -1,0 +1,8 @@
+﻿Bar.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Bar.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)
+Button.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B)
+Button.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Cyan" (?Cyan@Color@sf@@2V12@B)
+Button.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Blue" (?Blue@Color@sf@@2V12@B)
+HowToPlayState.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Magenta" (?Magenta@Color@sf@@2V12@B)
+LeaderboardState.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+D:\repoOld\REPO\33f1f400-gr12-repo\Project\Game\Release\Game.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 7

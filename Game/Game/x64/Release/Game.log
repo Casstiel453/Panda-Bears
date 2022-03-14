@@ -1,0 +1,21 @@
+﻿  AnimationComponent.cpp
+  Bar.cpp
+  Button.cpp
+  FileMissingException.cpp
+  Game.cpp
+  GameOverState.cpp
+  GameState.cpp
+  HowToPlayState.cpp
+  LeaderboardState.cpp
+  main.cpp
+  MainMenuState.cpp
+  OptionsState.cpp
+  Panda.cpp
+  State.cpp
+  TextureManager.cpp
+  Trwa generowanie kodu
+  0 of 2035 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Game.vcxproj -> D:\repoOld\REPO\33f1f400-gr12-repo\Project\Game\x64\Release\Game.exe
